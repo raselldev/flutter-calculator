@@ -1,6 +1,9 @@
+
 # flutter_calculator
 
 Simple calculator using Flutter
+![sample-image](https://raw.githubusercontent.com/raselldev/flutter-calculator/master/sample/1.png)
+
 
 
 ## Getting Started
